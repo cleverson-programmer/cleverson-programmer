@@ -1,11 +1,11 @@
 ## Cleverson Resende
 ## Engenharia de Software PUC-Minas
-<img align="center" style="margin-bottom:100px; object-fit: contain" width=100% src="https://i0.wp.com/carreiras.pucminas.br/med/2022/10/selo-empregabilidade.png?resize=1100%2C700&ssl=1" />
+<img align="center" style="margin-bottom:100px; object-fit: contain" width=80% src="https://i0.wp.com/carreiras.pucminas.br/med/2022/10/selo-empregabilidade.png?resize=1100%2C700&ssl=1" />
 &nbsp;&nbsp;&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=kyronsatt&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=kyronsatt&show_icons=true&theme=radical&layout=compact" />
+<img width=40% align="center" src="https://github-readme-stats-git-main-cleverson-programmer.vercel.app/api/top-langs/?username=kyronsatt&show_icons=true&theme=radical&layout=compact" />
 </div>
  
  &nbsp;
