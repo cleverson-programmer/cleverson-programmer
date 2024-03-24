@@ -1,16 +1,15 @@
 ## Cleverson Resende
 ## Engenharia de Software PUC-Minas
-<img align="center" style="margin-bottom:100px; object-fit: contain" width=80% src="https://i0.wp.com/carreiras.pucminas.br/med/2022/10/selo-empregabilidade.png?resize=1100%2C700&ssl=1" />
+<img align="center" style="margin-bottom:100px; object-fit: contain" heigth=auto width=70% src="https://i0.wp.com/carreiras.pucminas.br/med/2022/10/selo-empregabilidade.png?resize=1100%2C700&ssl=1" />
 &nbsp;&nbsp;&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=kyronsatt&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-cleverson-programmer.vercel.app/api/top-langs/?username=kyronsatt&show_icons=true&theme=radical&layout=compact" />
+<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=cleverson-programmer&theme=radical&mode=weekly" />
+<img width=40% align="center" src="https://github-readme-stats-git-main-cleverson-programmer.vercel.app/api/top-langs/?username=cleverson-programmer&show_icons=true&theme=radical&layout=compact" />
 </div>
  
  &nbsp;
  &nbsp;
-
 ### HARD SKILLS:
 
 <div style="display: inline_block"><br>
@@ -28,7 +27,7 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
   
-###Social
+### Social
  
 <div> 
   <a href="https://instagram.com/cleverson_priv" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
