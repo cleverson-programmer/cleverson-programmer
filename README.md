@@ -1,6 +1,9 @@
 ## Cleverson Resende
 ## Engenharia de Software PUC-Minas
-### Tecnologias:
+<img align="center" style="margin-bottom:100px; object-fit: contain" width=100% src="https://github.com/kyronsatt/kyronsatt/assets/97697928/2c964a53-346e-4bab-b7ff-67ca000100d4" />
+&nbsp;&nbsp;&nbsp;
+
+### HARD SKILLS:
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Cleverson-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -13,8 +16,9 @@
   <img align="center" alt="Cleverson-c++" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="Cleverson-c++" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="Cleverson-c++" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
-  
 </div>
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
   
   ##
  
@@ -22,5 +26,6 @@
   <a href="https://instagram.com/cleverson_priv" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:cleversongithub@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/cleverson-resende" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
 </div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
