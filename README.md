@@ -9,8 +9,9 @@
  &nbsp;
  &nbsp;
 
+
  
-### HARD SKILLS:
+## HARD SKILLS:
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Cleverson-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -28,7 +29,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
  
-### Social
+## Social
  
 <div> 
   <a href="https://instagram.com/cleverson_priv" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
