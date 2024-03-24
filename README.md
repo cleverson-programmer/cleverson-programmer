@@ -1,15 +1,14 @@
 ## Cleverson Resende
 ## Engenharia de Software PUC-Minas
-<img align="center" style="margin-bottom:100px; object-fit: contain" heigth=auto width=600px src="https://i0.wp.com/carreiras.pucminas.br/med/2022/10/selo-empregabilidade.png?resize=1100%2C700&ssl=1" />
+<img align="center" margin= 0 auto style="margin-bottom:100px; object-fit: contain" heigth=auto width=600px src="https://i0.wp.com/carreiras.pucminas.br/med/2022/10/selo-empregabilidade.png?resize=1100%2C700&ssl=1" />
 &nbsp;&nbsp;&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=cleverson-programmer&theme=radical&mode=weekly" />
+</div>
  
  &nbsp;
  &nbsp;
-
-
 ### HARD SKILLS:
 
 <div align="left" style="display: inline_block"><br>
