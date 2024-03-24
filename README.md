@@ -1,7 +1,15 @@
 ## Cleverson Resende
 ## Engenharia de Software PUC-Minas
-<img align="center" style="margin-bottom:100px; object-fit: contain" width=100% src="https://github.com/kyronsatt/kyronsatt/assets/97697928/2c964a53-346e-4bab-b7ff-67ca000100d4" />
+<img align="center" style="margin-bottom:100px; object-fit: contain" width=100% src="https://i0.wp.com/carreiras.pucminas.br/med/2022/10/selo-empregabilidade.png?resize=1100%2C700&ssl=1" />
 &nbsp;&nbsp;&nbsp;
+
+<div  align="center" style="margin-bottom:100px">
+<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=kyronsatt&theme=radical&mode=weekly" />
+<img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=kyronsatt&show_icons=true&theme=radical&layout=compact" />
+</div>
+ 
+ &nbsp;
+ &nbsp;
 
 ### HARD SKILLS:
 
@@ -20,7 +28,7 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
   
-  ##
+###Social
  
 <div> 
   <a href="https://instagram.com/cleverson_priv" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
