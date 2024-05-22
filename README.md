@@ -11,18 +11,7 @@
  &nbsp;
 ### HARD SKILLS:
 
-<div align="left" style="display: inline_block"><br>
-  <img align="center" alt="Cleverson-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Cleverson-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/node/node-plain.svg">
-  <img align="center" alt="Cleverson-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Cleverson-Html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Cleverson-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Cleverson-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img align="center" alt="Cleverson-c++" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg">
-  <img align="center" alt="Cleverson-c++" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
-  <img align="center" alt="Cleverson-c++" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress.svg">
-  <img align="center" alt="Cleverson-c++" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
-</div>
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,jquery,mysql,php,nodejs,react,wordpress,angular,laravel)](https://skillicons.dev)
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
