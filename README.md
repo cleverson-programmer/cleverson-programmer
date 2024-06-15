@@ -1,6 +1,8 @@
 ## Cleverson Resende
 ## Engenharia de Software PUC-Minas
-<img align="center" style="margin-bottom:100px; object-fit: contain" width=600px src="https://i0.wp.com/carreiras.pucminas.br/med/2022/10/selo-empregabilidade.png?resize=1100%2C700&ssl=1" />
+<div align="center">
+ <img style="margin-bottom:100px; object-fit: contain" width=600px src="https://i0.wp.com/carreiras.pucminas.br/med/2022/10/selo-empregabilidade.png?resize=1100%2C700&ssl=1" />
+</div>
 &nbsp;&nbsp;&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
@@ -15,9 +17,11 @@
  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cleverson-programmer&layout=compact&hide_border=true&title_color=8F0D87&text_color=00bfbf&bg_color=0d1117" />
 </div>
  
-### HARD SKILLS:
+<div align="center">
+ ### HARD SKILLS:
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,jquery,react,angular,wordpress,mysql,mongodb,nodejs,nextjs,docker)](https://skillicons.dev)
+</div>
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
@@ -31,7 +35,7 @@
 </div>
 
 <div>
-<br><p><b>Contador de Visitas</b></p>  
+### Contador de Visitas:
 <p><img src="https://profile-counter.glitch.me/{cleverson-programmer}/count.svg" /></p> 
 <br></div>
 
