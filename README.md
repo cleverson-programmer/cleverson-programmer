@@ -1,7 +1,7 @@
 ## Cleverson Resende
 ## Engenharia de Software PUC-Minas
 <div align="center">
- <img style="margin-bottom:100px; object-fit: contain" width=600px src="https://i0.wp.com/carreiras.pucminas.br/med/2022/10/selo-empregabilidade.png?resize=1100%2C700&ssl=1" />
+ <img style="margin-bottom:80px; object-fit: contain" width=600px src="https://i0.wp.com/carreiras.pucminas.br/med/2022/10/selo-empregabilidade.png?resize=1100%2C700&ssl=1" />
 </div>
 &nbsp;&nbsp;&nbsp;
 
@@ -17,8 +17,8 @@
  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cleverson-programmer&layout=compact&hide_border=true&title_color=8F0D87&text_color=00bfbf&bg_color=0d1117" />
 </div>
  
-<div align="center">
- ### HARD SKILLS:
+<div align="center" style="margin-top: 80px" >
+ <h2>HARD SKILLS:</h2>
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,jquery,react,angular,wordpress,mysql,mongodb,nodejs,nextjs,docker)](https://skillicons.dev)
 </div>
@@ -35,7 +35,7 @@
 </div>
 
 <div>
-### Contador de Visitas:
+ <h2>Contador de Visitas:</h2>
 <p><img src="https://profile-counter.glitch.me/{cleverson-programmer}/count.svg" /></p> 
 <br></div>
 
