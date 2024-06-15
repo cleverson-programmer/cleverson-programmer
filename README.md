@@ -24,8 +24,8 @@
   <a href="https://www.linkedin.com/in/cleverson-resende" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
+<div>
+<br><p align="centre"><b>Contador de Visitas</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{cleverson-programmer}/count.svg" /></p> 
 <br></div>
 
