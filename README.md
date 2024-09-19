@@ -20,7 +20,7 @@
 <div align="center" style="margin-top: 80px" >
  <h2>HARD SKILLS:</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,jquery,react,wordpress,mysql,mongodb,nodejs,nextjs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,jquery,react,wordpress,mysql,mongodb,nodejs,nextjs)](https://skillicons.dev)
 </div>
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
