@@ -1,67 +1,141 @@
-<h1 align="left">Cleverson Resende</h1>
+<div align="center">
 
-###
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Cleverson%20Resende&fontAlign=50&fontAlignY=40&fontSize=42&animation=fadeIn&desc=Software%20Developer%20%7C%20AI%20%7C%20Cloud%20%7C%20Automation&descAlign=50&descAlignY=65" width="100%"/>
 
-<p align="left">Software Engineering Student at PUC Minas</p>
+<br>
 
-###
+<a href="https://github.com/cleverson-programmer">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=3FB950&center=true&vCenter=true&width=700&lines=%3E+initializing+developer.profile...;%3E+Backend+%7C+APIs+%7C+Cloud+%7C+AI;%3E+building+intelligent+systems...;%3E+system.ready()+%E2%9C%93" alt="Typing SVG" />
+</a>
+
+</div>
+
+---
+
+## `> whoami`
+
+<p align="center">
+<img src="img/profile.gif" />
+</p>
+
+> I build software focused on **backend engineering, system integration, APIs, automation and AI-powered solutions**.
+
+---
+
+## `> ./about-me.sh`
+
+<p align="center">
+<img src="img/about-me.gif" />
+</p>
+
+---
+
+## `> tech-stack --list`
+
+### `LANGUAGES`
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=ts,js,cs,python,java" />
+</p>
+
+### `BACKEND`
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,dotnet,express" />
+</p>
+
+### `FRONTEND`
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite" />
+</p>
+
+### `DATABASE`
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,prisma" />
+</p>
+
+### `CLOUD & DEVOPS`
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=aws,docker,nginx,githubactions,git" />
+</p>
+
+---
+
+## `> architecture --principles`
+
+<p align="center">
+<img src="img/engineering (1).gif" />
+</p>
+
+---
+
+## `> github --stats`
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cleverson-programmer&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cleverson-programmer&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=cleverson-programmer&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cleverson-programmer&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
+
 </div>
 
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnetcore logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-</div>
-
-###
-
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
-</div>
-
-###
+<br>
 
 <div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
+
+<img src="https://streak-stats.demolab.com?user=cleverson-programmer&theme=github-dark-blue&hide_border=true" />
+
 </div>
 
-###
+---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cleverson-programmer/cleverson-programmer/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cleverson-programmer/cleverson-programmer/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/cleverson-programmer/cleverson-programmer/output/pacman-contribution-graph.svg">
-</picture>
+## `> contributions`
 
-###
+<div align="center">
 
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+
 </div>
 
-###
+---
+
+## `> currently-learning`
+
+<p align="center">
+<img src="img/currently-learning.gif" />
+</p>
+
+---
+
+## `> connect`
+
+<div align="center">
+
+<a href="https://www.linkedin.com/cleevrson-resende">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/cleverson-programmer">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="mailto:cleverson.github@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<p align="center">
+<img src="img/farewell.gif" />
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer" width="100%"/>
+
+</div>
